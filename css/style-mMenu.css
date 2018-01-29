@@ -30,7 +30,7 @@ a:hover { color: white; }
 	margin: 0 auto; 
 	list-style: none; 
 	position: relative; 
-	width: 960px; 
+	width: 900px; 
 }
 #example-two li { 
 	display: inline-block; 
